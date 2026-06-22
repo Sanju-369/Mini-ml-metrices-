@@ -58,5 +58,19 @@ When you build it yourself:
 - You can explain it in any interview
 
 ---
+## Tech Stack
 
-## Project Structure
+- Python 3
+- NumPy only
+
+---
+
+## Author
+
+**Sanjay Mishra**
+- LinkedIn: [linkedin.com/in/sanjay-mishra369](https://linkedin.com/in/sanjay-mishra369)
+- Email: sm3129914@gmail.com
+
+---
+
+> If you're learning ML — build the math first, use the library second.
